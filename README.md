@@ -1,16 +1,50 @@
-# React + Vite
+# Freediving World
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Freediving World is a ReactJS frontend web application created for the CSCI390 Web Programming Project Phase 2. The project continues the Phase 1 freediving website and converts it into a responsive React application with multiple pages and interactive booking functionality.
 
-Currently, two official plugins are available:
+## Project Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This website helps users learn about freediving, explore available freediving courses, and submit a booking request. The application includes information about freediving, course levels, pricing, training details, contact information, and a booking form.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ReactJS frontend application
+- Four main pages: Home, About, Courses, and Contact
+- Responsive design for desktop and mobile screens
+- Freediving course information
+- Book Now buttons on the Courses page
+- Booking request form on the Contact page
+- Automatic course selection when booking from the Courses page
+- Form validation and confirmation message
 
-## Expanding the ESLint configuration
+## Pages
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Home
+Introduces freediving and explains what freediving is, why it is useful, and how it works as a sport.
+
+### About
+Provides background information about freediving, its history, freediving today, and the future of the sport.
+
+### Courses
+Displays beginner, advanced, and master freediving courses with duration, price, location, schedule, and training details.
+
+### Contact
+Shows contact information, booking and payment details, and includes an interactive booking request form.
+
+## Technologies Used
+
+- ReactJS
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Git and GitHub
+
+## Setup Instructions
+
+To run this project locally:
+
+1. Clone the repository:
+
+```bash
+git clone <repository-link>
