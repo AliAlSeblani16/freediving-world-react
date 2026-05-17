@@ -1,4 +1,4 @@
-function Navbar({ currentPage, setCurrentPage }) {
+function Navbar({ setCurrentPage }) {
   return (
     <header className="navbar">
       <div className="logo">Freediving World</div>

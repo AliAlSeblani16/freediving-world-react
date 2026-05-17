@@ -32,7 +32,7 @@ function App() {
 
   return (
     <>
-      <Navbar currentPage={currentPage} setCurrentPage={setCurrentPage} />
+     <Navbar setCurrentPage={setCurrentPage} />
       {renderPage()}
       <Footer />
     </>
