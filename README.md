@@ -40,11 +40,6 @@ Shows contact information, booking and payment details, and includes an interact
 - Vite
 - Git and GitHub
 
-## Live Demo
-
-https://freediving-world-react.vercel.app
-
-
 ## Setup Instructions
 
 To run this project locally:
@@ -53,3 +48,55 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/AliAlSeblani16/freediving-world-react.git
+
+```
+
+2. Open the project folder:
+
+```bash
+cd freediving-world-react
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+5. Open the local server link shown in the terminal, usually:
+
+```text
+http://localhost:5173
+```
+
+## Screenshots
+
+### Home Page
+![Home Page](public/screenshots/home.png)
+
+### About Page
+![About Page](public/screenshots/about.png)
+
+### Courses Page
+![Courses Page](public/screenshots/courses.png)
+
+### Contact Page
+![Contact Page](public/screenshots/contact.png)
+
+### Booking Form
+![Booking Form](public/screenshots/booking.png)
+
+## Live Demo
+
+https://freediving-world-react.vercel.app
+
+## GitHub Repository
+
+https://github.com/AliAlSeblani16/freediving-world-react
+
