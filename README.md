@@ -47,4 +47,4 @@ To run this project locally:
 1. Clone the repository:
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/AliAlSeblani16/freediving-world-react.git
