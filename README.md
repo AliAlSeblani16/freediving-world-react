@@ -40,6 +40,11 @@ Shows contact information, booking and payment details, and includes an interact
 - Vite
 - Git and GitHub
 
+## Live Demo
+
+https://freediving-world-react.vercel.app
+
+
 ## Setup Instructions
 
 To run this project locally:
