@@ -20,15 +20,19 @@ This website helps users learn about freediving, explore available freediving co
 ## Pages
 
 ### Home
+
 Introduces freediving and explains what freediving is, why it is useful, and how it works as a sport.
 
 ### About
+
 Provides background information about freediving, its history, freediving today, and the future of the sport.
 
 ### Courses
+
 Displays beginner, advanced, and master freediving courses with duration, price, location, schedule, and training details.
 
 ### Contact
+
 Shows contact information, booking and payment details, and includes an interactive booking request form.
 
 ## Technologies Used
@@ -48,7 +52,6 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/AliAlSeblani16/freediving-world-react.git
-
 ```
 
 2. Open the project folder:
@@ -75,21 +78,34 @@ npm run dev
 http://localhost:5173
 ```
 
+## Build Instructions
+
+To create the production build:
+
+```bash
+npm run build
+```
+
 ## Screenshots
 
 ### Home Page
+
 ![Home Page](public/screenshots/home.png)
 
 ### About Page
+
 ![About Page](public/screenshots/about.png)
 
 ### Courses Page
+
 ![Courses Page](public/screenshots/courses.png)
 
 ### Contact Page
+
 ![Contact Page](public/screenshots/contact.png)
 
 ### Booking Form
+
 ![Booking Form](public/screenshots/booking.png)
 
 ## Live Demo
@@ -99,4 +115,3 @@ https://freediving-world-react.vercel.app
 ## GitHub Repository
 
 https://github.com/AliAlSeblani16/freediving-world-react
-
